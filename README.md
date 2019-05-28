@@ -12,7 +12,7 @@ instead this program evaluates all songs from all user playlists. I made use of 
 ## To use
 You will need a Spotify developer account, which can be created from the [dashboard](https://developer.spotify.com/dashboard/login), which
 will provide you with a `CLIENT_ID` and a `CLIENT_SECRET`. You will also need your user ID, or `username`, which can be found in the link
-that you use to share your Spotify profile (see [here])(https://community.spotify.com/t5/Accounts/how-do-i-find-my-spotify-user-id/td-p/665532). Define these variables in another file called spotifyLocalConfig.py.
+that you use to share your Spotify profile (see [here](https://community.spotify.com/t5/Accounts/how-do-i-find-my-spotify-user-id/td-p/665532)). Define these variables in another file called spotifyLocalConfig.py.
 Running the program will generate a prompt window where you give the application access to your account.
 
 ## Libraries used
